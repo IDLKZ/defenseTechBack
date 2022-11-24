@@ -38,3 +38,20 @@ Route::resource('newsCategories', App\Http\Controllers\NewsCategoryController::c
 
 
 Route::resource('news', App\Http\Controllers\NewsController::class);
+
+
+
+
+Route::resource('tags', App\Http\Controllers\TagController::class);
+
+
+Route::resource('companies', App\Http\Controllers\CompanyController::class);
+
+
+Route::resource('awards', App\Http\Controllers\AwardController::class);
+
+
+Route::resource('vacancies', App\Http\Controllers\VacancyController::class);
+
+
+Route::resource('categories', App\Http\Controllers\CategoryController::class);

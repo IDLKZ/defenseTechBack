@@ -192,6 +192,10 @@ return [
         "DescriptionEn"=>"Description in english",
         "Specific"=>"Specific Field",
         "Status"=>"Is Active?",
+        "Phone"=>"Phone",
+        "Location"=>"Location",
+        "salaryMin"=>"Minimum Salary",
+        "salaryMax"=>"Maximum Salary",
         "Action"=>"Action",
         "QuestionDelete"=>"Are you sure?",
         "Delete"=>"Delete",
@@ -208,6 +212,15 @@ return [
         "Announcement"=>"Announcement",
         "NewsCategory"=>"News Category",
         "News"=>"News",
+        "Tag"=>"Tag",
+        "Company"=>"Company",
+        "Companies"=>"About Us",
+        "Award"=>"Award",
+        "Vacancy"=>"Vacancy",
+        "Vacancies"=>"Vacancies",
+        "Category"=>"Category",
+        "Categories"=>"Categories"
+
 
 
     ],
