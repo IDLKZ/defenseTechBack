@@ -55,3 +55,26 @@ Route::resource('vacancies', App\Http\Controllers\VacancyController::class);
 
 
 Route::resource('categories', App\Http\Controllers\CategoryController::class);
+
+
+Route::resource('shops', App\Http\Controllers\ShopController::class);
+
+
+Route::resource('products', App\Http\Controllers\ProductController::class);
+
+
+Route::resource('events', App\Http\Controllers\EventsController::class);
+
+
+Route::resource('taxBreaks', App\Http\Controllers\TaxBreakController::class);
+
+
+Route::resource('offices', App\Http\Controllers\OfficeController::class);
+
+
+
+
+Route::resource('programms', App\Http\Controllers\ProgrammController::class);
+
+
+Route::resource('reviews', App\Http\Controllers\ReviewController::class);

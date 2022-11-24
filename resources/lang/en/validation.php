@@ -196,6 +196,8 @@ return [
         "Location"=>"Location",
         "salaryMin"=>"Minimum Salary",
         "salaryMax"=>"Maximum Salary",
+        "Price"=>"Price",
+        "OldPrice"=>"OldPrice",
         "Action"=>"Action",
         "QuestionDelete"=>"Are you sure?",
         "Delete"=>"Delete",
@@ -219,8 +221,23 @@ return [
         "Vacancy"=>"Vacancy",
         "Vacancies"=>"Vacancies",
         "Category"=>"Category",
-        "Categories"=>"Categories"
-
+        "Categories"=>"Categories",
+        "Shops"=>"Shops",
+        "Shop"=>"Shop",
+        "Products"=>"Products",
+        "Product"=>"Product",
+        "Event"=>"Event",
+        "Events"=>"Events",
+        "TaxBreak"=>"Tax Break",
+        "TaxBreaks"=>"Taxes Break",
+        "Office"=>"Office",
+        "Offices"=>"Offices",
+        "Programm"=>"Programm",
+        "Programms"=>"Programms",
+        "Review"=>"Review",
+        "Reviews"=>"Reviews",
+        "Name"=>"Name",
+        "Comment"=>"Comment"
 
 
     ],
